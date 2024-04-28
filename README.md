@@ -28,4 +28,4 @@ Objective:
 -Also evaluate the models & compare their respective scores like R2, RMSE, etc.
 
 DATASET LINK: https://drive.google.com/file/d/1q44P8lFQ3j-7F5MSK3eXIlhVMmcO1RVm/view
-PROJECT LINK: https://drive.google.com/file/d/1SvAVXBM2CUZzDyVjbp18XOZ5acEB6CmL/view?usp=sharing
+
