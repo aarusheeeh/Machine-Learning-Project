@@ -1,4 +1,4 @@
-# Machine-Learning-Project-
+# Machine-Learning-Project
 # Predictive Modeling for Bike Sharing Demand
 
 ## Introduction
