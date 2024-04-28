@@ -23,6 +23,7 @@ the demand levels and meet the customer's expectations. Further, the model will 
 demand dynamics of a new market.
 
 Objective:
+***
 *-Understand the Dataset & cleanup (if required).
 *-Build Regression models to predict the share of bikes.
 *-Also evaluate the models & compare their respective scores like R2, RMSE, etc.
