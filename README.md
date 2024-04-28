@@ -1,5 +1,5 @@
 # Machine-Learning-Project-
-Predictive Modeling for Bike  Sharing Demand
+# Predictive Modeling for Bike Sharing Demand
 
 ## Introduction
 BoomBikes, a US-based bike-sharing provider, seeks to accelerate its revenue post-Covid-19 lockdown by understanding the demand for shared bikes. To achieve this, they have collected a comprehensive dataset on daily bike demands across the American market. The objective is to build predictive models that can accurately forecast bike demand based on various factors, enabling BoomBikes to tailor their business strategy accordingly.
